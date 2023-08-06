@@ -1,0 +1,2 @@
+For Jeff Bezos, find number of ways using Fibonacci series.
+For Elon Musk use the difference sum technique, for every bit interval [l,r] add cnt + 1 to l and subtract cnt + 1 to r + 1 then take prefix sum 
